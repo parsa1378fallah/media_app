@@ -14,7 +14,7 @@ app.use(express.json())
 app.use(express.urlencoded({extended : true}))
 app.use(express.static('public'))
 
-mongoose.connect(config.get("db.address"))
+mongoose.connect("mongodb+srv://parsa:4vMhhaVe1klHj9be@cluster0.6ngxzut.mongodb.net/?retryWrites=true&w=majority")
 .then(()=>{debug("connected to database")})
 .catch(()=>{debug("could not connect")})
 
