@@ -1,7 +1,7 @@
 {
     "name" : "social media project" ,
     "db" : {
-        "address" : "mongodb://127.0.0.1:27017/socialMediaProject"
+        "address" : "mongodb+srv://parsa:4vMhhaVe1klHj9be@cluster0.6ngxzut.mongodb.net/?retryWrites=true&w=majority"
     },
     "jwt_key" : "hjkjhjkhjklbhjklgvffgcxgfxgfjvjknllmllkhjlhjklhkkjgftydrdr"
 }

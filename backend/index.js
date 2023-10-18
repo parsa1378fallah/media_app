@@ -23,3 +23,9 @@ app.use('/api' , Router)
 const PORT  = process.env.PORT || 3000 ; 
 
 app.listen(PORT , ()=>{console.log(`lestening to port ${PORT}`)})
+
+
+
+
+
+// "address" : "mongodb://127.0.0.1:27017/socialMediaProject"
