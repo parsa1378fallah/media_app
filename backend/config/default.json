@@ -1,0 +1,7 @@
+{
+    "name" : "social media project" ,
+    "db" : {
+        "address" : "mongodb://127.0.0.1:27017/socialMediaProject"
+    },
+    "jwt_key" : "hjkjhjkhjklbhjklgvffgcxgfxgfjvjknllmllkhjlhjklhkkjgftydrdr"
+}
