@@ -5,7 +5,7 @@ import Register from "./pages/register/Register.jsx";
 import MainLayout from "./layouts/main/MainLayout.jsx";
 import Dashboard from "./pages/dashboard/Dashboard.jsx";
 import Posts from "./pages/posts/posts.jsx"
-import ProtectedAuthRoutes from "./protectedRoutes/ProtectedAuthRoutes.jsx";
+import ProtectedAuthRoutes from "./protectedRoutes/protectedAuthRoutes"
 import ProtectedMainRoutes from "./protectedRoutes/protectedMainRoutes.jsx";
 import { Routes, Route } from "react-router-dom";
 import React from "react";

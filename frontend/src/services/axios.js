@@ -1,5 +1,5 @@
 import axios from "axios";
 const instance = axios.create({
-  baseURL: "http://localhost:3000/api/",
+  baseURL: "https://media-app-hie5.onrender.com/api/",
 });
 export default instance
