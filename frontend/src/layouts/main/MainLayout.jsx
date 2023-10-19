@@ -1,5 +1,5 @@
 import { Outlet, Link } from "react-router-dom";
-import TopBar from "../../components/topbar/Topbar";
+import TopBar from "../../components/topbar/TopBar";
 import SideBar from "../../components/sidebar/SideBar.jsx";
 const sidebarItems = [
     { icon: "PostAdd", value: "پست ها" ,  path : '/posts' },
